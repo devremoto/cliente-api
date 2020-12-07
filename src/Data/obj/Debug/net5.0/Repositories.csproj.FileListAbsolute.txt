@@ -1,0 +1,9 @@
+D:\desenvolvimento\rota\file-explorer\src\Repositories\bin\Debug\net5.0\Repositories.deps.json
+D:\desenvolvimento\rota\file-explorer\src\Repositories\bin\Debug\net5.0\Repositories.dll
+D:\desenvolvimento\rota\file-explorer\src\Repositories\bin\Debug\net5.0\Repositories.pdb
+D:\desenvolvimento\rota\file-explorer\src\Repositories\obj\Debug\net5.0\Repositories.csprojAssemblyReference.cache
+D:\desenvolvimento\rota\file-explorer\src\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+D:\desenvolvimento\rota\file-explorer\src\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+D:\desenvolvimento\rota\file-explorer\src\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\rota\file-explorer\src\Repositories\obj\Debug\net5.0\Repositories.dll
+D:\desenvolvimento\rota\file-explorer\src\Repositories\obj\Debug\net5.0\Repositories.pdb

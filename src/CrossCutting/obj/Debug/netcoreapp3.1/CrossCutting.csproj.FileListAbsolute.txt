@@ -1,0 +1,17 @@
+D:\desenvolvimento\rota\file-explorer\src\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+D:\desenvolvimento\rota\file-explorer\src\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\desenvolvimento\rota\file-explorer\src\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\desenvolvimento\rota\file-explorer\src\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\desenvolvimento\rota\file-explorer\src\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\desenvolvimento\rota\file-explorer\src\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\rota\file-explorer\src\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+D:\desenvolvimento\rota\file-explorer\src\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\desenvolvimento\rota\file-explorer\src\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+D:\desenvolvimento\rota\file-explorer2\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+D:\desenvolvimento\rota\file-explorer2\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\desenvolvimento\rota\file-explorer2\CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\desenvolvimento\rota\file-explorer2\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\desenvolvimento\rota\file-explorer2\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\desenvolvimento\rota\file-explorer2\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\rota\file-explorer2\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+D:\desenvolvimento\rota\file-explorer2\CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb

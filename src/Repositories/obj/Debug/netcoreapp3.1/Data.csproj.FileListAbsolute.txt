@@ -1,0 +1,12 @@
+D:\desenvolvimento\rota\file-explorer2\Repositories\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\desenvolvimento\rota\file-explorer2\Repositories\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\desenvolvimento\rota\file-explorer2\Repositories\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\desenvolvimento\rota\file-explorer2\Repositories\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\rota\file-explorer2\Repositories\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\desenvolvimento\rota\file-explorer2\Repositories\bin\Debug\netcoreapp3.1\Data.dll
+D:\desenvolvimento\rota\file-explorer2\Repositories\bin\Debug\netcoreapp3.1\Data.pdb
+D:\desenvolvimento\rota\file-explorer2\Repositories\obj\Debug\netcoreapp3.1\Data.dll
+D:\desenvolvimento\rota\file-explorer2\Repositories\obj\Debug\netcoreapp3.1\Data.pdb
+D:\desenvolvimento\rota\file-explorer2\Repositories\bin\Debug\netcoreapp3.1\Domain.dll
+D:\desenvolvimento\rota\file-explorer2\Repositories\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\desenvolvimento\rota\file-explorer2\Repositories\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
